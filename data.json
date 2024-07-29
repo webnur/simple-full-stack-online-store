@@ -1,0 +1,44 @@
+[
+  {
+    "imgSrc": "https://i.ibb.co/41t8hKF/seronex-50-1630228194576.webp",
+    "fileKey": "product1_image_key",
+    "name": "Awesome Product",
+    "category": "Electronics",
+    "price": "$99.99"
+  },
+  {
+    "imgSrc": "https://i.ibb.co/41t8hKF/seronex-50-1630228194576.webp",
+    "fileKey": "product2_image_key",
+    "name": "Super Gadget",
+    "category": "Gadgets",
+    "price": "$199.00"
+  },
+  {
+    "imgSrc": "https://i.ibb.co/JRp7F24/Letrol-2-5-g-Tablet-Renata-Limited.webp",
+    "fileKey": "product2_image_key",
+    "name": "Super Gadget",
+    "category": "Gadgets",
+    "price": "$199.00"
+  },
+  {
+    "imgSrc": "https://i.ibb.co/JRp7F24/Letrol-2-5-g-Tablet-Renata-Limited.webp",
+    "fileKey": "product2_image_key",
+    "name": "Super Gadget",
+    "category": "Gadgets",
+    "price": "$199.00"
+  },
+  {
+    "imgSrc": "https://i.ibb.co/JRp7F24/Letrol-2-5-g-Tablet-Renata-Limited.webp",
+    "fileKey": "product2_image_key",
+    "name": "Super Gadget",
+    "category": "Gadgets",
+    "price": "$199.00"
+  },
+  {
+    "imgSrc": "https://i.ibb.co/JRp7F24/Letrol-2-5-g-Tablet-Renata-Limited.webp",
+    "fileKey": "product2_image_key",
+    "name": "Super Gadget",
+    "category": "Gadgets",
+    "price": "$199.00"
+  }
+]
